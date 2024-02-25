@@ -1,0 +1,8 @@
+embeddings {
+  tensor_name: "train_features"
+  metadata_path: "train_metadata.tsv"
+}
+embeddings {
+  tensor_name: "validation_features"
+  metadata_path: "validation_metadata.tsv"
+}
